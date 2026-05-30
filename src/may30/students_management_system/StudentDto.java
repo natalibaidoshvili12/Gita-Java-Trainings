@@ -1,4 +1,4 @@
-package may30;
+package may30.students_management_system;
 
 public class StudentDto {
 
