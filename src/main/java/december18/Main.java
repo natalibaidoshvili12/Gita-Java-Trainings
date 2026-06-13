@@ -1,10 +1,7 @@
 package december18;
 
 import december18.cw.Car;
-import december18.cw.Status;
-import december18.cw.University;
 
-import java.math.BigDecimal;
 import java.util.Random;
 
 public class Main {

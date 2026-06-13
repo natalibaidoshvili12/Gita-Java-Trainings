@@ -1,10 +1,5 @@
 package december13.hw;
 
-import december13.hw.frst.FullTime;
-import december13.hw.frst.PartTime;
-import december13.hw.scnd.Email;
-import december13.hw.scnd.Sms;
-
 public class Main {
 
     public static void main(String[] args) {

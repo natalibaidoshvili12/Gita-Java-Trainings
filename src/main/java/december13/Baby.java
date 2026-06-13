@@ -1,7 +1,5 @@
 package december13;
 
-import december13.Person;
-
 public class Baby extends Person {
 
 

@@ -1,7 +1,5 @@
 package november27;
 
-import november27.Person;
-
 public class Student extends Person {
 
     private String course;

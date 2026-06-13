@@ -1,7 +1,5 @@
 package december13;
 
-import december11.Animal;
-
 public class Main {
 
     public static void main(String[] args) {
